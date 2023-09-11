@@ -14,4 +14,3 @@ Transaction History             |  Settings |
 
 **Fashion inspiration and shopping app helping you wear what's in style. Made with Typescript & ReactNative.**
 
-Application inspired by William Candillon's youtube series.
